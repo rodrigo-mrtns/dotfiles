@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rodrigo.mrtns@hotmail.com
+	name = Rodrigo Adilson
